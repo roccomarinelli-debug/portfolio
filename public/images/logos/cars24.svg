@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100">
+  <!-- Cars24 Blue -->
+  <rect width="300" height="100" fill="#1E3A8A"/>
+
+  <!-- Cars24 Wordmark -->
+  <g transform="translate(150, 55)">
+    <text x="0" y="0" font-family="Arial Black, sans-serif" font-size="46" font-weight="900" fill="#FFFFFF" text-anchor="middle">
+      <tspan fill="#FFFFFF">CARS</tspan><tspan fill="#FFA500">24</tspan>
+    </text>
+  </g>
+</svg>

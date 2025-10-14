@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <!-- Cars24 Homepage Mockup -->
+  <rect width="1200" height="900" fill="#F8F9FA"/>
+
+  <!-- Header -->
+  <rect width="1200" height="75" fill="#1E3A8A"/>
+  <text x="40" y="48" font-family="Arial Black" font-size="36" fill="#FFFFFF" font-weight="900">
+    <tspan fill="#FFFFFF">CARS</tspan><tspan fill="#FFA500">24</tspan>
+  </text>
+  <text x="1100" y="48" font-family="Arial" font-size="14" fill="#FFFFFF" text-anchor="end">Buy | Sell | Finance</text>
+
+  <!-- Hero Section -->
+  <rect y="75" width="1200" height="400" fill="url(#carGradient)"/>
+  <defs>
+    <linearGradient id="carGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1E3A8A;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3B82F6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <text x="100" y="200" font-family="Arial" font-size="52" fill="#FFFFFF" font-weight="bold">Find Your Perfect Car</text>
+  <text x="100" y="260" font-family="Arial" font-size="26" fill="#FFFFFF">Australia's trusted used car marketplace</text>
+
+  <!-- Search Bar -->
+  <rect x="100" y="310" width="600" height="60" fill="#FFFFFF" rx="8"/>
+  <text x="120" y="348" font-family="Arial" font-size="18" fill="#999999">Search by make, model or keyword...</text>
+  <rect x="640" y="318" width="120" height="44" fill="#FFA500" rx="5"/>
+  <text x="700" y="348" font-family="Arial" font-size="16" fill="#FFFFFF" text-anchor="middle" font-weight="bold">Search</text>
+
+  <!-- Feature Cards -->
+  <rect x="60" y="530" width="340" height="260" fill="#FFFFFF" rx="12"/>
+  <rect x="60" y="530" width="340" height="140" fill="#3B82F6"/>
+  <text x="230" y="610" font-family="Arial" font-size="32" fill="#FFFFFF" text-anchor="middle" font-weight="bold">Buy</text>
+  <text x="80" y="720" font-family="Arial" font-size="18" fill="#333333" font-weight="bold">Quality Inspected Cars</text>
+  <text x="80" y="750" font-family="Arial" font-size="14" fill="#666666">7-day money back guarantee</text>
+
+  <rect x="440" y="530" width="340" height="260" fill="#FFFFFF" rx="12"/>
+  <rect x="440" y="530" width="340" height="140" fill="#FFA500"/>
+  <text x="610" y="610" font-family="Arial" font-size="32" fill="#FFFFFF" text-anchor="middle" font-weight="bold">Sell</text>
+  <text x="460" y="720" font-family="Arial" font-size="18" fill="#333333" font-weight="bold">Instant Cash Offer</text>
+  <text x="460" y="750" font-family="Arial" font-size="14" fill="#666666">Free home inspection</text>
+
+  <rect x="820" y="530" width="320" height="260" fill="#FFFFFF" rx="12"/>
+  <rect x="820" y="530" width="320" height="140" fill="#1E3A8A"/>
+  <text x="980" y="610" font-family="Arial" font-size="32" fill="#FFFFFF" text-anchor="middle" font-weight="bold">Finance</text>
+  <text x="840" y="720" font-family="Arial" font-size="18" fill="#333333" font-weight="bold">Easy Car Loans</text>
+  <text x="840" y="750" font-family="Arial" font-size="14" fill="#666666">Get approved in minutes</text>
+</svg>

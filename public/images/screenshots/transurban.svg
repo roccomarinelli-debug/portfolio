@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <!-- Transurban Homepage Mockup -->
+  <rect width="1200" height="900" fill="#FFFFFF"/>
+
+  <!-- Header -->
+  <rect width="1200" height="80" fill="#FFFFFF"/>
+  <rect width="1200" height="1" y="80" fill="#E0E0E0"/>
+  <text x="40" y="50" font-family="Arial" font-size="32" fill="#00A6A3" font-weight="bold">Transurban</text>
+  <text x="1100" y="50" font-family="Arial" font-size="14" fill="#333333" text-anchor="end">Tolling | Account | Travel</text>
+
+  <!-- Hero Section with Road Image -->
+  <rect y="81" width="1200" height="400" fill="#F0F0F0"/>
+  <rect y="81" width="1200" height="400" fill="url(#roadGradient)"/>
+  <defs>
+    <linearGradient id="roadGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#00A6A3;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#004D4A;stop-opacity:0.9" />
+    </linearGradient>
+  </defs>
+  <text x="600" y="240" font-family="Arial" font-size="52" fill="#FFFFFF" text-anchor="middle" font-weight="bold">Keep Moving</text>
+  <text x="600" y="290" font-family="Arial" font-size="24" fill="#FFFFFF" text-anchor="middle">Smart tolling solutions for your journey</text>
+  <rect x="480" y="320" width="240" height="55" fill="#FFFFFF" rx="5"/>
+  <text x="600" y="355" font-family="Arial" font-size="18" fill="#00A6A3" text-anchor="middle" font-weight="bold">Open An Account</text>
+
+  <!-- Feature Cards -->
+  <rect x="100" y="540" width="320" height="250" fill="#FFFFFF" rx="8"/>
+  <rect x="100" y="540" width="320" height="4" fill="#00A6A3"/>
+  <text x="260" y="600" font-family="Arial" font-size="24" fill="#333333" text-anchor="middle" font-weight="bold">CityLink</text>
+  <text x="260" y="640" font-family="Arial" font-size="16" fill="#666666" text-anchor="middle">Melbourne's motorway network</text>
+
+  <rect x="460" y="540" width="320" height="250" fill="#FFFFFF" rx="8"/>
+  <rect x="460" y="540" width="320" height="4" fill="#00A6A3"/>
+  <text x="620" y="600" font-family="Arial" font-size="24" fill="#333333" text-anchor="middle" font-weight="bold">Linkt Account</text>
+  <text x="620" y="640" font-family="Arial" font-size="16" fill="#666666" text-anchor="middle">Manage your travel</text>
+
+  <rect x="820" y="540" width="320" height="250" fill="#FFFFFF" rx="8"/>
+  <rect x="820" y="540" width="320" height="4" fill="#00A6A3"/>
+  <text x="980" y="600" font-family="Arial" font-size="24" fill="#333333" text-anchor="middle" font-weight="bold">Trip Planner</text>
+  <text x="980" y="640" font-family="Arial" font-size="16" fill="#666666" text-anchor="middle">Calculate your toll</text>
+</svg>

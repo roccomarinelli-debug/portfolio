@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <!-- iSelect Homepage Mockup -->
+  <rect width="1200" height="900" fill="#FFFFFF"/>
+
+  <!-- Header -->
+  <rect width="1200" height="70" fill="#FFFFFF"/>
+  <rect width="1200" height="2" y="70" fill="#FF6600"/>
+  <text x="40" y="48" font-family="Arial Rounded" font-size="36" fill="#FF6600" font-weight="bold">iSelect</text>
+  <text x="1100" y="48" font-family="Arial" font-size="14" fill="#333333" text-anchor="end">Health | Life | Car | Home</text>
+
+  <!-- Hero Section -->
+  <rect y="72" width="1200" height="380" fill="#FFF5EB"/>
+  <text x="600" y="210" font-family="Arial" font-size="48" fill="#FF6600" text-anchor="middle" font-weight="bold">Compare. Choose. Save.</text>
+  <text x="600" y="260" font-family="Arial" font-size="24" fill="#333333" text-anchor="middle">Find the right insurance in minutes</text>
+  <rect x="450" y="300" width="300" height="60" fill="#FF6600" rx="30"/>
+  <text x="600" y="340" font-family="Arial" font-size="18" fill="#FFFFFF" text-anchor="middle" font-weight="bold">Start Comparing Now</text>
+
+  <!-- Insurance Category Cards -->
+  <rect x="80" y="520" width="250" height="280" fill="#FFFFFF" rx="8"/>
+  <rect x="80" y="520" width="250" height="180" fill="#FF8C42"/>
+  <text x="205" y="620" font-family="Arial" font-size="28" fill="#FFFFFF" text-anchor="middle" font-weight="bold">Health</text>
+  <text x="100" y="740" font-family="Arial" font-size="16" fill="#333333">Compare 40+ funds</text>
+
+  <rect x="370" y="520" width="250" height="280" fill="#FFFFFF" rx="8"/>
+  <rect x="370" y="520" width="250" height="180" fill="#FF6600"/>
+  <text x="495" y="620" font-family="Arial" font-size="28" fill="#FFFFFF" text-anchor="middle" font-weight="bold">Life</text>
+  <text x="390" y="740" font-family="Arial" font-size="16" fill="#333333">Protect your family</text>
+
+  <rect x="660" y="520" width="250" height="280" fill="#FFFFFF" rx="8"/>
+  <rect x="660" y="520" width="250" height="180" fill="#FFA726"/>
+  <text x="785" y="620" font-family="Arial" font-size="28" fill="#FFFFFF" text-anchor="middle" font-weight="bold">Car</text>
+  <text x="680" y="740" font-family="Arial" font-size="16" fill="#333333">Save on insurance</text>
+
+  <rect x="950" y="520" width="200" height="280" fill="#FFFFFF" rx="8"/>
+  <rect x="950" y="520" width="200" height="180" fill="#FF8C42"/>
+  <text x="1050" y="620" font-family="Arial" font-size="28" fill="#FFFFFF" text-anchor="middle" font-weight="bold">Home</text>
+  <text x="970" y="740" font-family="Arial" font-size="16" fill="#333333">Protect your home</text>
+</svg>

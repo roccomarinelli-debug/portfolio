@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100">
+  <!-- RMIT Red Background -->
+  <rect width="300" height="100" fill="#E61E2A"/>
+
+  <!-- RMIT Logo Elements -->
+  <g transform="translate(20, 50)">
+    <!-- R -->
+    <text x="0" y="0" font-family="Arial Black, sans-serif" font-size="42" font-weight="900" fill="#FFFFFF" letter-spacing="-2">RMIT</text>
+
+    <!-- Tagline -->
+    <text x="0" y="25" font-family="Arial, sans-serif" font-size="10" fill="#FFFFFF" opacity="0.9">A world of difference</text>
+  </g>
+</svg>
