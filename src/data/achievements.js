@@ -1,9 +1,9 @@
 export const achievements = [
-  "Led $2M+ digital transformation projects that educated and empowered 500K+ users",
-  "Managed teams of 15+ content specialists delivering accessible learning experiences",
-  "Achieved 10-point NPS improvement through user-centric educational content",
-  "Secured Top 5 rankings for 50+ keywords through clear, educational content strategies",
-  "Increased digital literacy and self-service adoption through accessible content design",
-  "Improved user understanding by 150% through data-driven content optimization",
-  "Enhanced content effectiveness by 25% through AI tools and process innovation"
+  "Led $2M+ digital transformation project with comprehensive website renewal and UX optimization",
+  "Improved website engagement by 25% through data-driven content strategy and user testing",
+  "Managed teams of 15+ content specialists and coordinated multiple digital agency relationships",
+  "Achieved Top 5 search rankings for 50+ keywords through strategic content optimization",
+  "Increased NPS by 10 points through improved user experience and content clarity",
+  "Enhanced user understanding by 150% via accessibility-focused content redesign",
+  "Reduced support costs through self-service content adoption at enterprise scale"
 ];

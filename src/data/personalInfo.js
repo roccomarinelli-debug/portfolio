@@ -1,8 +1,8 @@
 export const personalInfo = {
   name: "Rocco Marinelli",
-  title: "Digital Education Communications & Storytelling Specialist",
+  title: "Marketing Manager & Website Content Lead | Relocating to Helsinki",
   email: "rocco.marineli@gmail.com",
-  phone: "0490038888",
-  location: "Helsinki",
-  summary: "Digital content strategist with 15+ years of experience creating accessible, education-focused content that transforms how people learn and engage with technology. Currently working at Telstra, Australia's largest telecommunications company, in Content Design, with expertise in enterprise leadership, technical platforms, and measurable impact. Have previously consulted to some of Australia's largest and most trusted brands. Passionate about leveraging AI and emerging technologies for social good, with a proven track record of leading multi-million dollar projects that educate and empower diverse audiences."
+  phone: "+61 490 038 888",
+  location: "Helsinki, Finland",
+  summary: "Marketing manager and website content strategist with 15+ years of experience leading digital transformations and website renewal projects at enterprise scale. Currently Content Designer at Telstra (Australia's largest telecommunications company), with specialized expertise in website content strategy, UX optimization, vendor management, and data-driven performance measurement. Proven track record of managing multi-million dollar initiatives that optimize user experience, drive engagement, and deliver measurable business outcomes across telecommunications, infrastructure, and e-commerce sectors."
 };

@@ -1,32 +1,32 @@
 export const competencies = [
   {
     id: 1,
-    title: "AI & Emerging Technologies",
-    description: "Leveraging AI tools (ChatGPT, Claude, Midjourney) for content creation and optimization. Exploring AI-driven solutions for accessibility, personalization, and efficiency in communication.",
-    icon: "🤖"
+    title: "Website Content Strategy & Renewal",
+    description: "15+ years leading website transformations across telecommunications, infrastructure, and e-commerce. Expertise in UX improvements, content framework development, vendor coordination, and performance optimization.",
+    icon: "🚀"
   },
   {
     id: 2,
-    title: "Enterprise Leadership",
-    description: "Leading cross-functional teams of 15+ specialists, strategic planning and execution, stakeholder management at executive level.",
-    icon: "👥"
+    title: "Marketing & E-Commerce",
+    description: "Digital marketing strategy for B2B and B2C audiences. E-commerce optimization, conversion funnel improvement, and customer journey mapping. SEO expertise with proven rankings and organic traffic growth.",
+    icon: "📈"
   },
   {
     id: 3,
-    title: "Technical Platforms",
-    description: "CMS expertise (WordPress, AEM, Contentful), marketing automation tools, analytics and SEO platforms, digital asset management systems.",
+    title: "Technical Platform Management",
+    description: "Advanced CMS expertise (WordPress, AEM, Contentful), marketing automation tools, analytics platforms (Google Analytics, Adobe Analytics), and digital asset management systems.",
     icon: "⚙️"
   },
   {
     id: 4,
-    title: "Learning Experience Design",
-    description: "User-centric content that educates and empowers diverse audiences. Journey mapping for accessible learning, A/B testing for engagement, and multi-channel strategies that meet people where they are.",
-    icon: "✨"
+    title: "Vendor & Agency Management",
+    description: "Proven ability to coordinate external agencies, manage stakeholder relationships at executive level, and lead cross-functional teams of 15+ specialists. Strong negotiation and project management capabilities.",
+    icon: "👥"
   },
   {
     id: 5,
-    title: "Measurable Impact",
-    description: "Data-driven content strategies with measurable outcomes. Performance metrics, effectiveness tracking, and evidence-based optimization. Proven ability to demonstrate communication ROI.",
+    title: "Performance Analytics & Measurement",
+    description: "Data-driven approach to content effectiveness. Expertise in KPI definition, performance tracking, A/B testing, and evidence-based optimization. Demonstrated ability to report results to senior stakeholders.",
     icon: "📊"
   }
 ];

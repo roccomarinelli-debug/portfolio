@@ -20,9 +20,10 @@ function Folio() {
 
   const categories = [
     { id: 'ALL', label: 'All Projects', icon: FaGlobe },
-    { id: 'EDUCATION SECTOR', label: 'Education Sector', icon: FaGraduationCap },
-    { id: 'DIGITAL LITERACY', label: 'Digital Literacy', icon: FaBrain },
-    { id: 'USER EDUCATION', label: 'User Education', icon: FaUsers },
+    { id: 'WEBSITE RENEWAL', label: 'Website Renewal', icon: FaRocket },
+    { id: 'MARKETING STRATEGY', label: 'Marketing Strategy', icon: FaChartLine },
+    { id: 'E-COMMERCE', label: 'E-Commerce', icon: FaLightbulb },
+    { id: 'CONTENT STRATEGY', label: 'Content Strategy', icon: FaBrain },
   ];
 
   const filteredProjects = filter === 'ALL'
@@ -47,23 +48,29 @@ function Folio() {
 
   const getCategoryColor = (category) => {
     switch(category) {
-      case 'EDUCATION SECTOR':
+      case 'WEBSITE RENEWAL':
         return {
-          bg: 'bg-gradient-to-r from-accent/5 to-primary/5',
+          bg: 'bg-gradient-to-r from-primary/5 to-accent/5',
+          border: 'border-l-8 border-primary',
+          badge: 'bg-primary'
+        };
+      case 'MARKETING STRATEGY':
+        return {
+          bg: 'bg-gradient-to-r from-secondary/5 to-primary/5',
+          border: 'border-l-8 border-secondary',
+          badge: 'bg-secondary'
+        };
+      case 'E-COMMERCE':
+        return {
+          bg: 'bg-gradient-to-r from-accent/5 to-secondary/5',
           border: 'border-l-8 border-accent',
           badge: 'bg-accent'
         };
-      case 'DIGITAL LITERACY':
+      case 'CONTENT STRATEGY':
         return {
           bg: 'bg-gradient-to-r from-primary/5 to-secondary/5',
           border: 'border-l-8 border-primary',
           badge: 'bg-primary'
-        };
-      case 'USER EDUCATION':
-        return {
-          bg: 'bg-gradient-to-r from-secondary/5 to-accent/5',
-          border: 'border-l-8 border-secondary',
-          badge: 'bg-secondary'
         };
       default:
         return {
@@ -76,12 +83,14 @@ function Folio() {
 
   const getCategoryIcon = (category) => {
     switch(category) {
-      case 'EDUCATION SECTOR':
-        return <FaGraduationCap className="inline-block mr-2" />;
-      case 'DIGITAL LITERACY':
+      case 'WEBSITE RENEWAL':
+        return <FaRocket className="inline-block mr-2" />;
+      case 'MARKETING STRATEGY':
+        return <FaChartLine className="inline-block mr-2" />;
+      case 'E-COMMERCE':
+        return <FaLightbulb className="inline-block mr-2" />;
+      case 'CONTENT STRATEGY':
         return <FaBrain className="inline-block mr-2" />;
-      case 'USER EDUCATION':
-        return <FaUsers className="inline-block mr-2" />;
       default:
         return <FaLightbulb className="inline-block mr-2" />;
     }
@@ -101,9 +110,9 @@ function Folio() {
             Portfolio of Work
           </h2>
           <p className="text-xl text-textSecondary font-light max-w-4xl leading-relaxed">
-            15+ years transforming digital experiences through education-focused content,
-            accessible storytelling, and human-centered communication across enterprise
-            organizations and educational institutions.
+            15+ years leading website transformations, marketing content strategy, and
+            e-commerce optimization across enterprise organizations including telecommunications,
+            infrastructure, and automotive sectors.
           </p>
         </div>
       </motion.section>
