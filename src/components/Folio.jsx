@@ -107,12 +107,13 @@ function Folio() {
         <div className="border-l-8 border-primary pl-8 mb-8">
           <h2 className="text-6xl font-black text-darkBlue tracking-tight mb-4 flex items-center gap-4">
             <FaRocket className="text-primary" />
-            Portfolio of Work
+            Website Renewal Leadership
           </h2>
           <p className="text-xl text-textSecondary font-light max-w-4xl leading-relaxed">
-            15+ years leading website transformations, marketing content strategy, and
-            e-commerce optimization across enterprise organizations including telecommunications,
-            infrastructure, and automotive sectors.
+            <strong className="text-darkBlue">15+ years leading end-to-end website renewals and digital transformations</strong> at enterprise scale.
+            Proven expertise managing $5M+ website renewal projects, coordinating external agencies, establishing content governance frameworks,
+            and delivering measurable business outcomes across telecommunications, infrastructure, automotive, and industrial sectors.
+            <span className="text-primary font-semibold"> Now based in Helsinki, Finland</span> with immediate availability.
           </p>
         </div>
       </motion.section>

@@ -3,20 +3,20 @@ export const projects = [
     id: 1,
     title: "Transurban Digital Transformation & Website Renewal",
     company: "Transurban",
-    role: "Senior Content Strategist & Project Lead",
-    duration: "2020 - 2022",
+    role: "Digital Content Lead & Project Lead",
+    duration: "2015 - 2018",
     category: "WEBSITE RENEWAL",
     logo: "/images/logos/transurban logo.png",
     screenshot: "/images/screenshots/transurban website.png",
-    description: "Led $2M+ digital transformation project including comprehensive website renewal, UX optimization, and content strategy overhaul for Australia's largest toll road operator. Managed cross-functional teams, coordinated digital agencies, and delivered measurable improvements in user engagement and business outcomes.",
+    description: "Led $5M+ digital transformation project including comprehensive website renewal, UX optimisation, and content strategy overhaul for Australia's largest toll road operator. Managed cross-functional teams, coordinated digital agencies, and delivered measurable improvements in user engagement and business outcomes. Exact match for enterprise-scale website renewal requirements.",
     outcomes: [
-      "Delivered $2M+ website renewal project on time and budget with measurable ROI",
-      "Improved website engagement by 25% through data-driven content strategy and UX optimization",
-      "Increased customer NPS by 10 points through enhanced digital experience and content clarity",
+      "Delivered $5M+ website renewal project on time and budget with measurable ROI",
+      "Improved customer NPS by 10 points through enhanced digital experience and content clarity",
+      "Reduced call centre volume by 15% through improved self-service content and user journeys",
+      "Coordinated cross-functional teams of designers, developers, and content specialists",
       "Managed relationships with multiple digital agencies and external content production partners",
-      "Reduced customer service call volume by 30% through improved self-service content",
       "Implemented content governance framework and accessibility compliance (WCAG 2.1 AA)",
-      "Coordinated cross-functional teams of designers, developers, and content specialists"
+      "Led A/B testing and multivariate testing to optimise user journeys and conversion rates"
     ],
     technologies: ["WordPress", "Google Analytics", "A/B testing platforms", "WCAG accessibility tools", "Project management tools", "UX research tools", "SEO tools (SEMrush)"]
   },
